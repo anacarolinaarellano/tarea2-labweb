@@ -39,3 +39,5 @@ npm run dev
 
 - Sitio web: https://tarea2-anacarolina.netlify.app/
 
+# NOTA:
+Las fotos solo funcionan de manera local. Adjunto link a video en drive: https://drive.google.com/file/d/1Vs2H1fxxH6OBmrs_rXmtjE9j0kZ4o2-S/view?usp=sharing
