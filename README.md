@@ -1,29 +1,41 @@
-# mascotas-tarea
+# Mascotas-tarea
+### **Laboratorio de Aplicaciones Web: Tarea 2**
 
-This template should help get you started developing with Vue 3 in Vite.
+- Por: Ana Carolina Arellano Alvarez
+- Fecha: 30/03/2022
 
-## Recommended IDE Setup
+---
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.vscode-typescript-vue-plugin).
+Página hecha en vue usando el plugin de BootstrapVue
 
-## Customize configuration
+#### **Descargar**
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+---
 
-## Project Setup
+- Ir a https://github.com/anacarolinaarellano/tarea2-labweb
+- Clonar el repositorio en su computadora o descargar zip
 
-```sh
+#### **Cómo usar**
+
+---
+
+- Abrir el proyecto en un IDE (VS code de preferencia)
+- Abrir una terminal en el proyecto
+- correr
+
+```
 npm install
 ```
 
-### Compile and Hot-Reload for Development
-
-```sh
+- correr 
+```
 npm run dev
 ```
+- La página está corriendo en el puerto 3000
 
-### Compile and Minify for Production
+---
 
-```sh
-npm run build
-```
+## **Ver Sitio en Internet**
+
+- Sitio web: https://tarea2-anacarolina.netlify.app/
+
