@@ -10,7 +10,8 @@
     "bootstrap": "^5.1.3",
     "bootstrap-vue-3": "^0.1.9",
     "requirejs": "^2.3.6",
-    "vue": "^3.2.31"
+    "vue": "^3.2.31",
+    "vue-carousel": "^0.18.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^2.2.2",

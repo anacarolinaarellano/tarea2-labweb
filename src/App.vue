@@ -3,12 +3,16 @@ import MyCard from "./components/Card.vue";
 import Navbar from "./components/Navbar.vue";
 import MyHeader from "./components/MyHeader.vue";
 import MyImage from "./components/MyImage.vue";
+import TwoWayB from "./components/TwoWayB.vue";
 </script>
 
 <template>
   <Navbar />
   <main class="my-main">
     <MyHeader />
+    <div>
+      <TwoWayB/>
+    </div>
     <div class="my-row">
       <MyCard
         cardTitle="Mi Card 1"
