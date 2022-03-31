@@ -4,6 +4,8 @@ import Navbar from "./components/Navbar.vue";
 import MyHeader from "./components/MyHeader.vue";
 import MyImage from "./components/MyImage.vue";
 import TwoWayB from "./components/TwoWayB.vue";
+import ShowText from "./components/ShowText.vue";
+import TraverseArray from "./components/TraverseArray.vue";
 </script>
 
 <template>
@@ -12,6 +14,10 @@ import TwoWayB from "./components/TwoWayB.vue";
     <MyHeader />
     <div>
       <TwoWayB/>
+    </div>
+    <ShowText/>
+    <div class="center">
+      <TraverseArray/>
     </div>
     <div class="my-row">
       <MyCard

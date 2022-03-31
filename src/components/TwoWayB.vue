@@ -11,7 +11,7 @@ export default {
 </script>
 
 <template class="my-binding">
-  <h2>Escribe algo aquí</h2>
+  <h2>Escribe algo aquí (Two way binding)</h2>
   <input type="text" v-model="myinput" />
   <h2>{{ myinput }}</h2>
 </template>

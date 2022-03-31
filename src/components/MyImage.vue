@@ -1,11 +1,26 @@
+<script>
+export default {
+  data() {
+    return {
+      showCat: true,
+    };
+  },
+};
+</script>
 <template class="image-btn">
-    <b-img
+    <b-img v-if="showCat"
       class="my-image"
       src="../src/assets/images/kit.jpeg"
       fluid
     ></b-img>
-    <b-button class="mx-1 my-btn" variant="info">Cambiar Imagen</b-button>
+    <b-img v-else
+      class="my-image"
+      src="../src/assets/images/puppy.jpeg"
+      fluid
+    ></b-img>
+    <b-button class="mx-1 my-btn" variant="info" @click="showCat = !showCat">Cambiar Imagen</b-button>
 </template>
+
 <style scoped>
     .my-image{
         margin: 10px auto;
